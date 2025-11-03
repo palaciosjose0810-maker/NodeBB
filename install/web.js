@@ -47,7 +47,7 @@ winston.configure({
 			handleExceptions: true,
 		}),
 	],
-});
+}).
 
 const web = module.exports;
 let installing = false;
