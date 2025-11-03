@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -k
 
 # Function to set default values for environment variables
 set_defaults() {
